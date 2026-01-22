@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarnigam
-- 👀 I’m an experienced Frontend Developer, interested in tech and anything and everything related to AI and Web3.
+- 👀 I’m an experienced Frontend Developer, interested in tech and anything and everything related to AI.
 - 📫 How to reach me - send me an email on sagar.nigam.gr@gmail.com
 
 <!---
